@@ -135,8 +135,7 @@ Here is the live preview of this website [golob-travel-agency.vercel.app](https:
 2. **Run the setup script**
 
    ```sh
-   npm run setup
-   ```
+   
 
    This interactive script will help you configure all environment variables.
 

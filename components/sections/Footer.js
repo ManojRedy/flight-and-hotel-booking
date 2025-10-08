@@ -19,11 +19,11 @@ export async function Footer() {
         <Link
           aria-label={"Link to Github of the developer"}
           className="inline text-white"
-          href="https://github.com/mojahidhasan"
+          href="https://github.com/manojredy"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mojahid Hasan
+          manoj reddy
         </Link>
       </div>
       <div className="relative z-10 text-center text-sm font-medium">
@@ -35,7 +35,7 @@ export async function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Figma Community
+         
         </Link>
       </div>
     </footer>

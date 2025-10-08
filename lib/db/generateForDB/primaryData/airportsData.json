@@ -15,7 +15,9 @@
       "Car Rentals",
       "Duty-Free Shops",
       "Food Courts"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
+    
   },
   {
     "iataCode": "DXB",
@@ -33,7 +35,8 @@
       "Showers",
       "Lounges",
       "Duty-Free Shops"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "LHR",
@@ -51,7 +54,8 @@
       "Restaurants",
       "Shops",
       "Showers"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "HND",
@@ -69,7 +73,8 @@
       "Duty-Free Shops",
       "Showers",
       "Capsule Hotels"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "IST",
@@ -87,7 +92,8 @@
       "Shops",
       "Restaurants",
       "Duty-Free Stores"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "DEL",
@@ -105,7 +111,8 @@
       "Spa",
       "Duty-Free",
       "Food Courts"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "CAN",
@@ -123,7 +130,8 @@
       "Baggage Services",
       "Shops",
       "Food Courts"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "CGK",
@@ -141,7 +149,8 @@
       "Duty-Free",
       "Shops",
       "Restaurants"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "YYZ",
@@ -159,7 +168,8 @@
       "Duty-Free",
       "Restaurants",
       "Car Rentals"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   },
   {
     "iataCode": "GRU",
@@ -177,6 +187,7 @@
       "Baggage Services",
       "Restaurants",
       "Car Rentals"
-    ]
+    ],
+    "image": "https://example.com/images/atl.jpg"
   }
 ]
